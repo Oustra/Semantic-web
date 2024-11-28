@@ -57,9 +57,9 @@ The following mappings were applied to the dataset:
 
 ## Files in the Repository
 
-- `netflix.csv`: Original CSV dataset.
-- `netflix.ttl`: Transformed dataset in Turtle format.
-
+- `Netflix.csv`: Original CSV dataset.
+- `Netflix.ttl`: Transformed dataset in Turtle format.
+- `Netflix.rdf`: Transformed dataset in RDF format.
 ---
 
 ## Results
